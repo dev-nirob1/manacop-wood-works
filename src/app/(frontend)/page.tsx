@@ -1,8 +1,9 @@
+import Hero from "../components/front/Hero";
 
 const Home = () => {
   return (
     <div>
-      tthis is home page
+      <Hero/>
     </div>
   );
 };
